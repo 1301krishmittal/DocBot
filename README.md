@@ -11,3 +11,4 @@ To run this install basic python libraries through pip given in requirements.txt
 After this you will get relevent answers with page number from PDF from where you can go and get the reference and it will also give you relevent images.
 
 ![Screenshot 2024-04-27 195332](https://github.com/1301krishmittal/DocBot/assets/140061237/c6b88dc6-770d-4b65-a473-a8f41341c3e9)
+![Screenshot 2024-04-27 195317](https://github.com/1301krishmittal/DocBot/assets/140061237/4a9c1872-c9ba-441a-8710-1c4b7e4f0a74)
