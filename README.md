@@ -7,3 +7,5 @@ To run this install basic python libraries through pip given in requirements.txt
 3) Select the language English/Japanese.
 4) upload the question that you want to ask.
 5) Then our model will give you answers with relevent pages and images.
+
+After this you will get relevent answers with page number from PDF from where you can go and get the reference and it will also give you relevent images.
