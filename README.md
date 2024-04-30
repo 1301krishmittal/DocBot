@@ -9,3 +9,5 @@ To run this install basic python libraries through pip given in requirements.txt
 5) Then our model will give you answers with relevent pages and images.
 
 After this you will get relevent answers with page number from PDF from where you can go and get the reference and it will also give you relevent images.
+
+![Screenshot 2024-04-27 195332](https://github.com/1301krishmittal/DocBot/assets/140061237/c6b88dc6-770d-4b65-a473-a8f41341c3e9)
